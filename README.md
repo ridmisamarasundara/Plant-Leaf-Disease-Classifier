@@ -1,6 +1,6 @@
-# Plant Leaf Disease Classifier (Transfer Learning)
+# Plant Leaf Disease Classifier
 
-Fine-tuning a small pretrained CNN (MobileNetV3-Small, ImageNet weights) to classify plant leaf diseases on the PlantVillage dataset. This is Project 40 from the "45 Small Self-learning Projects" list.
+Fine-tuning a small pretrained CNN (MobileNetV3-Small, ImageNet weights) to classify plant leaf diseases on the PlantVillage dataset.
 
 **Question:** Does fine-tuning a pretrained CNN beat a frozen-feature baseline on plant leaf disease, and where does it still fail?
 
